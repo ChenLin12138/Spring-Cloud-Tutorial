@@ -1,0 +1,20 @@
+##ignore this file
+/target/
+
+##ignore .classpath
+.classpath
+
+##ignore .project
+.project
+
+##ignore .settings folder
+.settings/
+
+##ignore git-credentials
+.git-credentials
+
+##ignore others
+.DS_Store
+.mvn/
+mvnw
+mvnw.cmd
