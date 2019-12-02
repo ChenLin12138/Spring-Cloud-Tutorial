@@ -33,7 +33,7 @@
 
 Spring Cloud核心组件。
 
-- Actuator
+- [Actuator]("tutorial/1. 微服务入门教程-Actuator.md")
 - Config-server
 - Eureka
 - Hystrix
